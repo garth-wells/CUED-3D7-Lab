@@ -11,7 +11,7 @@ on Google Colab.
 Cambridge users should use their University credentials (CRSid) to log
 in.
 
-> Bu sure to use "Copy to Drive" to keep a copy of your notebook.
+> Be sure to use "Copy to Drive" to keep a copy of your notebook.
 
 ## Author
 
