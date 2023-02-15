@@ -1,0 +1,13 @@
+name: dolfinx-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - fenics-dolfinx=0.6
+  - mpich
+  - pyvista
+  - gmsh
+  - python-gmsh
+  - matplotlib
+  - ipykernel
+  - setuptools=64
