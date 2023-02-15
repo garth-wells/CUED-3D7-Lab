@@ -1,8 +1,8 @@
 # CUED Finite Element Methods (3D7) Lab
 
-This is the laboratory activity coursework activity for the Finite
-Element Course (3D7). The activity is contained in a Jupyter notebook.
-It can be run using Github Codespaces.
+This is the laboratory coursework activity for the Finite Element Course
+(3D7). The activity is contained in a Jupyter notebook. It can be run
+using Github Codespaces.
 
 
 ## Codespaces
