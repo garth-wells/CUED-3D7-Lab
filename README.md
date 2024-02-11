@@ -23,7 +23,7 @@ in.
 
 ## Codespaces
 
-[![Create a new Codespace](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=595727051)
+[![Create a new Codespace](https://github.com/codespaces/badge.svg)](https://codespaces.new/garth-wells/CUED-3D7-Lab)
 
 You can return to your Codespace at https://github.com/codespaces.
 Codespaces core hours per month are limited, so it is helpful to stop
