@@ -35,16 +35,19 @@ finished working. You can restart the Codespace at any time.
 
 ## Locally
 
+### VS Code and Docker
+
 1. Open VS Code.
 2. [Clone](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally)
-   the repository `garth-wells/CUED-3D7-Lab` from GitHUb using from VS
-   Code.
-3. Follow the instructions to install 'Dev Containers'.
-4. Select 'Reopen in Container'.
+   the repository
+   [`garth-wells/CUED-3D7-Lab`](https://github.com/garth-wells/CUED-3D7-Lab)
+   from GitHUb using from VS Code.
+3. Follow the VS Code prompts to install 'Dev Containers'.
+4. Select the VS Code prompt 'Reopen in Container'.
 
-You will be promoted to install Docker.
+You will be prompted to install Docker.
 
-### macOS and Linux only
+### conda (macOS and Linux only)
 
 The DOLFINx library used in this lab can be installed using
 [conda](https://conda.io).
