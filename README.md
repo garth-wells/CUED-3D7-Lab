@@ -2,18 +2,20 @@
 
 This is the laboratory coursework activity for the Finite Element Course
 (3D7). The activity is contained in a Jupyter notebook and uses the open
-source [FEniCSx](https://fenicsproject.org/) libraies.
+source [FEniCSx](https://fenicsproject.org/) libraries.
 
 Running the coursework notebook in Colab is recommended. Google does
 very occasionally make changes to Colab that can break the required
 libraries. In this case the lab can be undertaken using
-[Codespaces](https://github.com/codespaces). You can locally on
-macOS or Linux.
+[Codespaces](https://github.com/codespaces) or run locally.
 
 
 ## Colab (recommended)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garth-wells/CUED-3D7-Lab)
+
+At the start of each session it will take a few minutes for the required
+libraries to be installed.
 
 Cambridge users should use their University credentials (CRSid) to log
 in.
@@ -31,9 +33,21 @@ running Codespaces at https://github.com/codespaces when you have
 finished working. You can restart the Codespace at any time.
 
 
-## Locally (macOS and Linux only)
+## Locally
 
-The DOLFINx library used in this lab can be installed using [conda](https://conda.io).
+1. Open VS Code.
+2. [Clone](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally)
+   the repository `garth-wells/CUED-3D7-Lab` from GitHUb using from VS
+   Code.
+3. Follow the instructions to install 'Dev Containers'.
+4. Select 'Reopen in Container'.
+
+You will be promoted to install Docker.
+
+### macOS and Linux only
+
+The DOLFINx library used in this lab can be installed using
+[conda](https://conda.io).
 
 ```shell
 conda create -n fenicsx-env
