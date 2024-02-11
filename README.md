@@ -20,8 +20,6 @@ in.
 
 > Be sure to use "Copy to Drive" to keep a copy of your notebook.
 
-Google does sometimes makes changes
-
 
 ## Codespaces
 
