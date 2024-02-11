@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/devcontainers/miniconda:0-3
+FROM mcr.microsoft.com/devcontainers/miniconda:3
 
 RUN export DEBIAN_FRONTEND=noninteractive && \
     sudo apt-get -qq update && \
